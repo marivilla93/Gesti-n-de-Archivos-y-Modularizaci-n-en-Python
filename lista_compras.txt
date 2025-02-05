@@ -1,5 +1,0 @@
-pan:2275
-manzanas:1000
-huevos:3400
-cerezas:2000
-bananos:150
